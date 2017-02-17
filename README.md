@@ -5,7 +5,7 @@ Copyright 2017 Raymond Wise @ [Github Source](https://github.com/RaymondWise/VBA
 
 **Language: VBA**
 
-[![Code Review](http://www.zomis.net/codereview/shield/?qid=125698)](http://codereview.stackexchange.com/q/137854/75587)
+[![Code Review](http://www.zomis.net/codereview/shield/?qid=137854)](http://codereview.stackexchange.com/q/137854/75587)
 
 ##What this is
 Born on [codereview.stackexchange.com](http://codereview.stackexchange.com/q/137854/75587), this project is an experiment in creating a template for custom error handling in VBA It is free for your use under the [MIT license](https://opensource.org/licenses/MIT).
