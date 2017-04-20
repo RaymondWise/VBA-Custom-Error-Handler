@@ -8,9 +8,11 @@ Copyright 2017 Raymond Wise @ [Github Source](https://github.com/RaymondWise/VBA
 [![Code Review](http://www.zomis.net/codereview/shield/?qid=137854)](http://codereview.stackexchange.com/q/137854/75587)
 
 ##What this is
+
 Born on [codereview.stackexchange.com](http://codereview.stackexchange.com/q/137854/75587), this project is an experiment in creating a template for custom error handling in VBA It is free for your use under the [MIT license](https://opensource.org/licenses/MIT).
 
 ##How to use this
+
 Within excel you must open the Visual Basic Editor (VBE) to import the `.bas` file. On Windows you can open the VBE by pressing <kbd>Alt</kbd> + <kbd>F11</kbd>. Once open, you can import the file by pressing <kbd>Ctrl</kbd> + <kbd>M</kbd>, browse to the downloaded file `CustomErrHandler.bas` and click Open. Once imported, on the left side in the Project Explorer you will have a module called *CustomErrHandler* that contains this code.
 
 Once imported, the error handler can be utilized by other procedures and modules.
